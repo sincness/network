@@ -1,2 +1,2 @@
-# network
-Social application built with Ionic and Angular
+# Social Networking Application
+Social application built with Ionic and Angular.
